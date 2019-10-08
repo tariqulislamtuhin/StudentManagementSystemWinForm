@@ -1,0 +1,9 @@
+D:\Visual Studio\StudentEntryUI\bin\Debug\StudentEntryUI.exe.config
+D:\Visual Studio\StudentEntryUI\bin\Debug\StudentEntryUI.exe
+D:\Visual Studio\StudentEntryUI\bin\Debug\StudentEntryUI.pdb
+D:\Visual Studio\StudentEntryUI\obj\Debug\StudentEntryUI.StudentEntryUIForm.resources
+D:\Visual Studio\StudentEntryUI\obj\Debug\StudentEntryUI.Properties.Resources.resources
+D:\Visual Studio\StudentEntryUI\obj\Debug\StudentEntryUI.csproj.GenerateResource.cache
+D:\Visual Studio\StudentEntryUI\obj\Debug\StudentEntryUI.exe
+D:\Visual Studio\StudentEntryUI\obj\Debug\StudentEntryUI.pdb
+D:\Visual Studio\StudentEntryUI\obj\Debug\StudentEntryUI.csprojAssemblyReference.cache
