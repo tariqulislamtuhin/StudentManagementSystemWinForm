@@ -1,2 +1,2 @@
-# Student-Management-System-Windows-Form-Application
+# Student_Management_System_Windows_Form_Application
 A simple Student managment System
